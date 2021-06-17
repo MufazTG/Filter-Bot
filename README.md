@@ -3,29 +3,26 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-My New Updates In This [Channel](https://t.me/DX_Botz)
+My New Updates In This [Channel](https://t.me/BX_Botz)
 
-Our Beta [Filter Bot](https://t.me/Filters_Robot).
+Our Beta [Filter Bot](http://t.me/BXFilterBot).
 
-Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Mufaz123)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MufazTG/TG-Filter-Bot)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<a href="https://youtu.be/vwLJQlbr4R8"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-### Configuration
 
 ```
 from bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 1118936839  # my telegram ID
-    OWNER_USERNAME = "Sur_vivor"  # my telegram username
+    OWNER_ID = 1247076052  # my telegram ID
+    OWNER_USERNAME = "Mufaz123"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     USE_MESSAGE_DUMP = True
