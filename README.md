@@ -7,17 +7,14 @@ My New Updates In This [Channel](https://t.me/BX_Botz)
 
 Our Beta [Filter Bot](http://t.me/BXFilterBot).
 
-Alternatively, [find me on telegram](https://t.me/Mufaz123)! (Keep all support questions in the support chat, where more people can help you.)
-
-### Easy Way to Deploy
+### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MufazTG/TG-Filter-Bot)
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
+[BX Updates](http://t.me/BX_Botz).
+[BX Support](http://t.me/BxSupport).
 
 
-```
-from bot.sample_config import Config
 
 
 class Development(Config):
